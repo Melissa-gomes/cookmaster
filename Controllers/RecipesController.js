@@ -80,4 +80,5 @@ module.exports = {
   getForId,
   editRecipe,
   deleteRecipe,
+  addImage,
 };
